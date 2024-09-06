@@ -1,0 +1,11 @@
+{
+	"Create new Widget": {
+		"scope": "dart",
+		"prefix": "new widget",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Write a new widget"
+	}
+}
